@@ -2,3 +2,4 @@
 /nodejs/.vs
 /nodejs/bin
 /nodejs/obj
+/nodejs/*.suo
