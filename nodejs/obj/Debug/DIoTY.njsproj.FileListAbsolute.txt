@@ -1,2 +1,0 @@
-D:\workspace\MakersWeekend\DIoTY\obj\Debug\DIoTY.njsprojResolveAssemblyReference.cache
-D:\workspace\MakersWeekend\DIoTY\bin\Microsoft.NodejsTools.WebRole.dll
